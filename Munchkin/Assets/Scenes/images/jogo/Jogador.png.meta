@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 9cbbff1aac1b0824e86c35eb2488a944
+guid: 630949dcfc76dc5419566c97a0411157
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8320809161319005605
-    second: Jogador_0
+      213: -526858217398731591
+    second: Jogador ativo em campo_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Jogador_0
+      name: Jogador ativo em campo_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 3
-        width: 134
-        height: 162
+        x: 23
+        y: 15
+        width: 530
+        height: 645
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5ad3c30c8d3797370800000000000000
-      internalID: 8320809161319005605
+      spriteID: 9bcf3f02e3930b8f0800000000000000
+      internalID: -526858217398731591
       vertices: []
       indices: 
       edges: []
@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Jogador ativo em campo_0: -526858217398731591
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

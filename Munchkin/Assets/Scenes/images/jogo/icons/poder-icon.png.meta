@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      poder-icon_0: 2079774292138513544
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

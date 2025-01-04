@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      arma14_0: 2545883854272851233
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

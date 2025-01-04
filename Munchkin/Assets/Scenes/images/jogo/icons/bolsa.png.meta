@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 29c06073ea8bf2c48be4426b2794be73
+guid: c8dced24f7a38dd4f9f130fff27e2aed
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2812921916828266474
-    second: calcado3_0
+      213: 2778543822096781687
+    second: bolsa_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: calcado3_0
+      name: bolsa_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 220
-        height: 386
+        x: 30
+        y: 6
+        width: 106
+        height: 125
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6105a8e8b6e76f8d0800000000000000
-      internalID: -2812921916828266474
+      spriteID: 7715fe482ee5f8620800000000000000
+      internalID: 2778543822096781687
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      calcado3_0: -2812921916828266474
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      calcado4_0: 6904998177163775803
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

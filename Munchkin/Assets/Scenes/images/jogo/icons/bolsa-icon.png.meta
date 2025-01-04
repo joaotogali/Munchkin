@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bolsa-icon_0: -7390969276827302626
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

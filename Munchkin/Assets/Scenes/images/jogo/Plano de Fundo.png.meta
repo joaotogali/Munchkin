@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 22c21585e4248e74fa99241b7c7a197c
+guid: bff3f6712489e2343a695c0564cca14e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4248683635708854386
-    second: Plano de Fundo_0
+      213: -2645705188115753970
+    second: Plano de Fundo(1)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Plano de Fundo_0
+      name: Plano de Fundo(1)_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 721
-        height: 369
+        width: 2884
+        height: 1476
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2700175914b56fa30800000000000000
-      internalID: 4248683635708854386
+      spriteID: e04d3f12621984bd0800000000000000
+      internalID: -2645705188115753970
       vertices: []
       indices: 
       edges: []
@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Plano de Fundo(1)_0: -2645705188115753970
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      capacete-icon_0: 1928399034486709442
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
