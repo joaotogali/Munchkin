@@ -5,24 +5,19 @@ using UnityEngine.UI;
 public class MainMenu : MonoBehaviour
 {
 
-    [SerializeField] private Button Button;
+    [SerializeField] private string nomeDoLevelDeJogo;
+    [SerializeField] private Button MainMenuManager;
     //[SerializeField] private Button Quit;
 
-    private void Awake()
-    {
-        Button.onClick.AddListener(Jogar);
-        // Quit.onClick.AddListener(SairJogo);
-    }
-
-    private void Jogar()
+    public void Jogar()
     {
         Debug.Log("PLAY");
-        //SceneManager.LoadScene();
+        SceneManager.LoadScene(nomeDoLevelDeJogo);
     }
 
     public void SairJogo()
     {
-        Application.Quit();
         Debug.Log("Sair do jogo");
+        Application.Quit();
     }
 }
