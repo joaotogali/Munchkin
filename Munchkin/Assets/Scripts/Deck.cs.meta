@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d6be921df983e47409cbd673594545c4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _playerDeck: {instanceID: 0}
+  - _cardPrefab: {instanceID: 0}
+  - _cardCanvas: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
