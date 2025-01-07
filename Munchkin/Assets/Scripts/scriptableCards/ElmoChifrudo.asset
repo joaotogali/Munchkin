@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e433ccbd760d9c8429a6090df04ed535, type: 3}
+  m_Name: ElmoChifrudo
+  m_EditorClassIdentifier: 
+  <CardName>k__BackingField: ElmoChifrudo
+  <Image>k__BackingField: {fileID: 7568182610742380241, guid: d3f946a1e29575146a7e49583f05cdfe, type: 3}
+  <EffectType>k__BackingField: 2
